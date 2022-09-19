@@ -1,4 +1,4 @@
-Joint,UID,Feature Number,Distance,Joint_Factor,DS_TO_US,Orientation,Length ,Width,  Depth  ,iliyr,Matched_UID
+Joint,UID,Feature Number,Distance,Joint_Factor,DS_TO_US,Orientation,Length,Width,Depth,iliyr,Matched_UID
 150,2020-18,18,71.326,0,0.046,84,4,18,0.14,2020,
 600,2020-30,30,882.076,0,3.538,193,10,15,0.11,2020,
 600,2019-30,30,882.082,0,3.544,180,10,8,0.13,2019,2020-30
