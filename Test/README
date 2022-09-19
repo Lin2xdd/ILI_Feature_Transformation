@@ -1,0 +1,16 @@
+This folder contains the testing results of both simulated data and real data. The results are separated by datasets, ili year and then result type.
+
+- Plots: 
+   Scatterplot: before_trans_joint# and after_trans_joint# that shows the improved feature alingment through the program
+   Histogram: Consistency of feature growth as an indicatr of good alignment and thus good matching
+  
+- Critical Matrices:
+   P matrix, x_trans, affine matrix
+   
+- Evaluation Table:
+   Contains critical statistics that measures the performanc of the algorith and points the direction of enhancement
+
+- Data Output:
+   Data that merges updated coordinates after transformation
+  
+  
