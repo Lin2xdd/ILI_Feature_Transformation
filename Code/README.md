@@ -6,7 +6,7 @@ To automate feature transformation with a merged list containing multiple ili ye
 # Parameters:
 iliyr(fix & move), Joint Number, diameter
 
-#Structure
+# Structure
 
 - Layer 1: Iteration over multiple yeras and global parameter setup
 - Layer 2: Parameter setup for each ili yera
