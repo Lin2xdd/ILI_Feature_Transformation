@@ -12,7 +12,9 @@ Fix year is usually the later iliyear and is used as reference; Move year is the
 # Pre-processing
 Before throwing the data in the algorithm, we need to transform
 - Orientation
+
   Clockwise - Degree - Arch
+  
   Convert clock position to Degrees and then calculate the circumferential distance in meters. The diameter of the pipeline is 168.28mm. below is a reference on how to convert hrs:mins to degrees/
 "Convert clock position in hours / minutes or time format to circumferential degrees. Copy the entire clock position column and paste into Notepad. Insert a column to the right to receive the conversion calculation. Set the format of the original clock position column to "Text" and the new column for orientation degrees to "Number - 0 decimals". Select All and Copy from Notepad and Paste back to the original clock position column. Filter out the blanks from the clock position column to only rows with values. Use the formula:
 
