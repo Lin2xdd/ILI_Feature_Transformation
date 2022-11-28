@@ -23,5 +23,7 @@ Before throwing the data in the algorithm, we need to transform
 *Edit the “A1” to the appropriate clock position source row and column in the formula. Copy / paste the formula to bottom. Unfilter the column. Copy the full column and paste “as values” back to the same column. Find all 360 values and Replace with 0.
 
 "
-- Distance
+- Distance to US
+
+- In first try, we also used $\Delta$Distance
   Reset the start and calculate the difference in distance (Dist_i - Dist_0). Dist_0 should be the first row in the raw dataset
